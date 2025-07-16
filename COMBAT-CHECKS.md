@@ -15,11 +15,9 @@ STATS when making a DEFENSE Check:
 
 - CON – Use  your body to take the hit and absorb the damage
 
-- INT – ??
-
-- WIS – Sense  an attack is coming and move out of the way
-
 - CHA – Use you  force of personality to resist a fear like effect
+
+Note: Not all Stats can be used for a Defense check.
 
 *Example Ability Milestones*
 
@@ -29,3 +27,6 @@ STATS when making a DEFENSE Check:
 made against you, attempt a HARD STR CHECK place the CONCUSSION Status Effect on the target.
 
 **Evade**: If you use your Dexterity to successfully dodge an attack made against you, shift your position without repercussion.
+**Instinctive Reaction**: When you roll an Initiative check, you may add both your DEX and WIS stats to the roll. This will also count as 2 successes towards passing the group
+check.
+
