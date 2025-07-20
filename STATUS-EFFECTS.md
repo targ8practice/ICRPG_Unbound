@@ -6,33 +6,21 @@ Unless you have a Milestone, Spell, Power, or LOOT related to a particular Statu
 
 Here are some examples of Status Effects that can be placed upon a target. It is up to you as to how this is achieved (Usually by an Ability Milestone, LOOT, Spell or Power) but there’s nothing stopping you from getting creative.
 
-* Blinded Target cannot see, any actions they take are HARD
-
-*  Brittle The next person to successfully hit the target adds ULTIMATE to their damage
-
-* Concussion Target has a 50% chance of not doing anything
-
-* Confused Roll a 1d6 (1-2 Do nothing, 3-4 act normal, 5-6 attack a random target in range)
-
-* Deafened Target cannot hear or benefit from effects that require hearing
-
-* Disarm Target can only deal BASIC EFFORT until they take an ACTION to recover their weapon
-
-* Forced Move Move the target
-
-* Knockdown Target is knocked to the ground, all attacks that have CLOSE range are EASY against it.  Takes an ACTION to stand
-
-* Paralysis Target cannot use any ACTION that involves moving and also can’t move.
-
-* Restrained Target cannot MOVE, ACTIONS that involve attacking with a weapon are HARD
-
-* Spell Suppression Target cannot use POWER or cast SPELLS
-
-* Stunned You lose your turn and you drop anything you're holding
-
-* Raise Gain a bonus to a check or attempt
-
-* Lower Gain a penalty to a check or attempt
+* **Blinded** Target cannot see, any checks or attempts they take are HARD
+* **Brittle** The next person to successfully hit the target adds ULTIMATE to their damage
+* **Concussion** Target has a 50% chance of not doing anything
+* **Confused** Roll a 1d6 (1-2 Do nothing, 3-4 act normal, 5-6 attack a random target in range)
+* **Deafened** Target cannot hear or benefit from effects that require hearing
+* **Disarm** Target can only deal BASIC EFFORT until they take an ACTION to recover their weapon
+* **Forced Move (Range)** Move the target a specific distance
+* **Knockdown** Target is knocked to the ground, all attacks that have CLOSE range are EASY against it.  Takes an ACTION to stand
+* **Paralysis** Target cannot use any ACTION that involves moving and also can’t move.
+* **Restrained** Target cannot MOVE, ACTIONS that involve attacking with a weapon are HARD
+* **Spell Suppression** Target cannot use POWER or cast SPELLS
+* **Sickened** You can MOVE but can't take any meaningful ACTIONS
+* **Stunned** You lose your turn and you drop anything you're holding
+* **Raise** Gain a bonus to a check or attempt
+* **Lower** Gain a penalty to a check or attempt
 
 *Example Ability Milestones*
 

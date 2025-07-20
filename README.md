@@ -6,12 +6,13 @@ Welcome to Unbound, an ICRPG homebrew set of rule modules that will modify your 
 Currently the following rules modules have been written and ready for testing & feedback:
 - [Status Effects](STATUS-EFFECTS.md)
 - [Combat Checks](COMBAT-CHECKS.md)
-- [Initative](INITIATIVE.md)
+- [Initiative](INITIATIVE.md)
 - [Defense Stat rework](DEFENSE(ARMOR).md)
+
 
 ---
 
-The other rules modules are still works in progess, but if you have any ideas would love the feedback!
+The other rules modules are still works in progress, but if you have any ideas would love the feedback!
 
 
 ![ICRPG Logo](ICRPG%20Logo.png)
