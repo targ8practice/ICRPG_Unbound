@@ -5,3 +5,11 @@ Some Gear will come with TAGS attached to them, this means that they have additi
 
 NOISY - Sneaking is HARD  
 CUMBERSOME - Dodging is HARD
+
+ARMOR Value determines how many slots it takes up
+Weapon Handedness determines slot size
+
+WEAPON TAGS
+Light - 1 Handed
+Heavy - 2 handed
+Versatile - Either 1 or 2 handed
