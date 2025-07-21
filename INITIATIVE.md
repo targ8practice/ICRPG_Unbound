@@ -36,3 +36,7 @@ Once you've had your turn, you then decide who goes next. You can choose either 
 > If the GM has multiple monsters in the encounter, each monster must have a turn before the round is over.
 
 The last person who takes their this round decides who starts first in the next round.
+
+*Example Ability Milestone*
+**Reactionary** When you pass an Initiative check, it counts as 2 successes. 
+**Instinctive Reaction**: When you roll an Initiative check, you may choose either your DEX or WIS. 
