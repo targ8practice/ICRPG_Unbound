@@ -1,3 +1,5 @@
+# INITIATIVE
+
 Initiative determines the order of turns during a scene. This is normally done with everyone (including the GM) rolling a D20 with the highest going first then proceeding clockwise around the table. I propose a different way for the turn order to happen during the scene which enables players to have a more fluid and cinematic experience, I've dubbed it "**The Torchbearer Initiative"**
 
 - **Who Starts First? (Gaining the Torch)**
@@ -21,6 +23,6 @@ Once you've had your turn, you then decide who goes next. You can choose either 
 
 The last person who takes their turn this round decides who starts first in the next round.
 
-*Example Ability Milestone*
-**Reactionary** When you pass an Initiative check, it counts as 2 successes. 
-**Instinctive Reaction**: When you roll an Initiative check, you may choose either your DEX or WIS. 
+*Example Ability Milestone*  
+**Reactionary** When you pass an Initiative check, it counts as 2 successes.   
+**Instinctive Reaction**: When you roll an Initiative check, you may choose either your DEX or WIS.  
