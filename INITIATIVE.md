@@ -13,10 +13,10 @@ When determining who side goes first, the players or the GM, all players must ma
 >- Environmental  effects
 >- LOOT or Milestone Abilities
 
-- **Taking your turn (Using  the Torch)**
+- **Taking your turn (Using  the Torch)**  
 Now that you've been chosen to take your turn, you take it per normal, following the steps listed in the "Taking Your Turn" section of the ICRPG Core Rule book.
 
-- **Determining whose next (Passing the Torch)**
+- **Determining whose next (Passing the Torch)**  
 Once you've had your turn, you then decide who goes next. You can choose either another player or the GM.  This cycle continues until everyone involved in encounter have taken their turn.
 
 > If the GM has multiple monsters in the encounter, each monster must have a turn before the round is over. It's up to the GM how many go each turn.
