@@ -2,7 +2,7 @@
 
 Initiative determines the order of turns during a scene. This is normally done with everyone (including the GM) rolling a D20 with the highest going first then proceeding clockwise around the table. I propose a different way for the turn order to happen during the scene which enables players to have a more fluid and cinematic experience, I've dubbed it "**The Torchbearer Initiative"**
 
-- **Who Starts First? (Gaining the Torch)**
+- **Who Starts First? (Gaining the Torch)**  
 When determining who side goes first, the players or the GM, all players must make an Initiative Check (1d20+DEX) against the TARGET. If at least half the  players pass the check, they decide who goes first. Otherwise, the GM will be the one starting.
 
 > There's nothing stopping the players deciding that the GM is the one to start the combat off.
