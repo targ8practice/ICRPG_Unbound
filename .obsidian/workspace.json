@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INITIATIVE.md",
-                "mode": "source",
+                "file": "ABILITIES.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INITIATIVE"
+              "title": "ABILITIES"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "df1279a024cdd852",
   "lastOpenFiles": [
+    "STATUS-EFFECTS.md",
+    "MONSTERS.md",
     "COMBAT-CHECKS.md",
     "INITIATIVE.md",
     "README.md",
-    "MONSTERS.md",
-    "STATUS-EFFECTS.md",
     "EXPERIENCE.md",
     "ACTION-ECONOMY.md",
     "ABILITIES.md"
