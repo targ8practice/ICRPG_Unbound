@@ -13,3 +13,5 @@ WEAPON TAGS
 Light - 1 Handed
 Heavy - 2 handed
 Versatile - Either 1 or 2 handed
+
+HEAVY - Add your STR Stat to the EFFORT roll
